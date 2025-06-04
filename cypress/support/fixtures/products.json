@@ -1,0 +1,27 @@
+{
+  "testProducts": [
+    {
+      "name": "Camarão Coco Bambu (Inteiro)",
+      "category": "Camarões",
+      "minPrice": 300,
+      "maxQuantity": 99
+    },
+    {
+      "name": "Camarão BSB", 
+      "category": "Camarões",
+      "minPrice": 200,
+      "maxQuantity": 99
+    }
+  ],
+  "testQuantities": {
+    "valid": [1, 2, 5, 10, 99],
+    "invalid": [0, -1, 100, "abc", null],
+    "boundary": [1, 99]
+  },
+  "testObservations": [
+    "Sem cebola, por favor",
+    "Bem temperado",
+    "Molho à parte",
+    "Adicionar limão extra"
+  ]
+}

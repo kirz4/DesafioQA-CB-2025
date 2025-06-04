@@ -1,0 +1,27 @@
+{
+  "validAddresses": [
+    {
+      "street": "SHIS QI 23 Ch. 4, 19",
+      "neighborhood": "Lago Sul",
+      "city": "Brasília",
+      "state": "DF",
+      "zipCode": "71650-245",
+      "full": "SHIS QI 23 Ch. 4, 19 - Lago Sul, Brasília - DF, 71650-245"
+    },
+    {
+      "street": "SCN Qd 05 Bl. A",
+      "neighborhood": "Asa Norte",
+      "city": "Brasília", 
+      "state": "DF",
+      "zipCode": "70715-900",
+      "full": "SCN Qd 05 Bl. A - Asa Norte, Brasília - DF"
+    }
+  ],
+  "invalidAddresses": [
+    {
+      "street": "Endereço Inexistente 999",
+      "city": "Cidade Inexistente",
+      "state": "XX"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "testUsers": [
+    {
+      "name": "Test User",
+      "email": "test@cocobambu.com",
+      "password": "Test123!",
+      "phone": "+55 61 99999-9999"
+    },
+    {
+      "name": "QA Tester",
+      "email": "qa@example.com", 
+      "password": "QA123456",
+      "phone": "+55 61 88888-8888"
+    }
+  ],
+  "invalidUsers": [
+    {
+      "email": "invalid-email",
+      "password": "123"
+    },
+    {
+      "email": "",
+      "password": ""
+    }
+  ]
+}
